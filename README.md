@@ -8,7 +8,7 @@ This repo is a fork of https://github.com/g-cqd/SF-Hello, containing a modified 
 
 It now also contains a convert-ver-2.py, which makes use of prompt_toolkit to let you navigate backward and forward rather than just going forward.
 
-It further contains now a convert-ver-3.py that lets you navigate backward and forward, as well as toggle what your starting element is so you can more easily view individual letters.
+It further contains a convert-ver-3.py that lets you navigate backward and forward, as well as toggle what your starting element is so you can more easily view individual letters.
 
 ## Features
 
