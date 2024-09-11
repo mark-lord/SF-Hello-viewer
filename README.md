@@ -4,7 +4,7 @@
 
 # Interactive SVG Converter for Apple Hello Lettering
 
-This repo is a fork of https://github.com/g-cqd/SF-Hello, containing a modifier convert.py script (and now also a convert-ver-2.py, which makes use of prompt_toolkit to let you navigate backward and forward rather than just going forward). The one found in this repo converts JSON data of Apple's "Hello" lettering into SVG and then PNG format from the strokes found in the JSON files, allowing for an interactive, step-by-step visualization of how the graphic is constructed.
+This repo is a fork of https://github.com/g-cqd/SF-Hello, containing a modifier convert.py script (and now also a convert-ver-2.py, which makes use of prompt_toolkit to let you navigate backward and forward rather than just going forward (and now also a convert-ver-3.py that lets you navigate backward and forward, as well as toggle what your starting element is so you can more easily view individual letters)). The one found in this repo converts JSON data of Apple's "Hello" lettering into SVG and then PNG format from the strokes found in the JSON files, allowing for an interactive, step-by-step visualization of how the graphic is constructed.
 
 ## Features
 
