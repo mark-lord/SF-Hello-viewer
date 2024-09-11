@@ -24,14 +24,12 @@ This repo is a fork of https://github.com/g-cqd/SF-Hello, containing a modifier 
 2. Install the required library:
 
 ```
-bash
 
 pip install cairosvg
 ```
 Then use:
 
 ```
-bash
 
 python convert.py "path/to/input.json" "path/to/output.svg"
 ```
@@ -39,7 +37,6 @@ python convert.py "path/to/input.json" "path/to/output.svg"
 For example:
 
 ```
-bash
 
 python convert.py "JSON/hello-en.json" "./output"
 ```
